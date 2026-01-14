@@ -1,0 +1,239 @@
+/** {
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-align: center;
+    border:2px solid red;
+    border-radius: 10%;
+    padding:10px;
+    margin:50px;
+    width:100px;
+    height:50px;
+}*/
+/* Основная часть сайта */
+
+position: absolute;
+width: 1600px;
+height: 900px;
+left: 0px;
+top: 900px;
+
+
+
+/* Каркас */
+
+position: absolute;
+width: 1600px;
+height: 900px;
+left: 0px;
+top: 900px;
+
+background: #FFFFFF;
+
+
+/* Меню */
+
+position: absolute;
+width: 142px;
+height: 55px;
+left: 729px;
+top: 900px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 55px;
+/* identical to box height */
+
+color: #000000;
+
+border: 1px solid #000000;
+
+
+/* Бургеры */
+
+position: absolute;
+width: 160px;
+height: 43px;
+left: 232px;
+top: 1307px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 43px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Закуски */
+
+position: absolute;
+width: 148px;
+height: 43px;
+left: 238px;
+top: 1710px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 43px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Салаты */
+
+position: absolute;
+width: 135px;
+height: 43px;
+left: 732px;
+top: 1710px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 43px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Десерты */
+
+position: absolute;
+width: 161px;
+height: 43px;
+left: 1208px;
+top: 1710px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 43px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Блюда из курицы */
+
+position: absolute;
+width: 325px;
+height: 43px;
+left: 637px;
+top: 1307px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 43px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Горячие блюда */
+
+position: absolute;
+width: 280px;
+height: 43px;
+left: 1148px;
+top: 1307px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 43px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Картинка "Десерты" */
+
+position: absolute;
+width: 450px;
+height: 300px;
+left: 1063px;
+top: 1396px;
+
+background: url(homemade-newyork-cheesecake-with-frozen-berries-mint.jpg);
+border-radius: 50px;
+
+
+/* Картинка "Бургеры" */
+
+position: absolute;
+width: 450px;
+height: 300px;
+left: 87px;
+top: 993px;
+
+background: url(front-view-tasty-meat-burger-with-cheese-and-salad-on-dark-background.jpg);
+border-radius: 50px;
+
+
+/* Картинка "Блюда из курицы" */
+
+position: absolute;
+width: 450px;
+height: 300px;
+left: 575px;
+top: 993px;
+
+background: url(crispy-fried-chicken-on-a-wooden-cutting-board.jpg);
+border-radius: 50px;
+
+
+/* Картинка "Горячие блюда" */
+
+position: absolute;
+width: 450px;
+height: 300px;
+left: 1063px;
+top: 993px;
+
+background: url(grilled-beef-steak-dark-wooden-surface.jpg);
+border-radius: 50px;
+
+
+/* Картинка "Салаты" */
+
+position: absolute;
+width: 450px;
+height: 300px;
+left: 575px;
+top: 1396px;
+
+background: url(flat-lay-salad-with-chicken-sesame-seeds.jpg);
+border-radius: 50px;
+
+
+/* Картинка "Закуски" */
+
+position: absolute;
+width: 450px;
+height: 300px;
+left: 87px;
+top: 1396px;
+
+background: url(four-boxes-nuggets-with-chicken-prawn-cheese-fish-with-four-sauce.jpg);
+border-radius: 50px;
